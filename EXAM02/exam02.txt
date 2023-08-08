@@ -6,14 +6,3 @@ exam02 7 exercices
 4-ft_atoi 14points -> 70/100
 5-ft_range 14points -> 84/100
 6-ft_itoa or 6-ft_split 16points -> 100/100
-
-
-0-aff_a
-0-aff_z 
-1-rev_print
-1-ft_swap
-1-ft-strle
-2-first_word
-2-ft_strrev
-2-rot_13
-2-rotone
