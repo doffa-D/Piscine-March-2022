@@ -1,20 +1,43 @@
-# Piscine-March-2022
+# Exam Preparation Repository
 
-# Topics
+Welcome to my exam preparation repository! This repository contains my solutions and notes for various exam exercises and assignments from my coding journey.
 
-### Shell
-- [Shell00](https://github.com/doffa-D/Piscine-March-2022/tree/main/shell00)
-- [Shell01](https://github.com/doffa-D/Piscine-March-2022/tree/main/shell01)
-### C
-- [C00]() - [C basics](https://github.com/doffa-D/Piscine-March-2022/tree/main/c00)
-- [C01]() - [Pointers](https://github.com/doffa-D/Piscine-March-2022/tree/main/c01)
-- [C02]() - [String Manipulation 1](https://github.com/doffa-D/Piscine-March-2022/tree/main/c02)
-- [C03]() - [String Manipulation 2](https://github.com/doffa-D/Piscine-March-2022/tree/main/c03)
-- [C04]() - [Dealing with numbers](https://github.com/doffa-D/Piscine-March-2022/tree/main/c04)
-- [C05]() - [Math & recursion](https://github.com/doffa-D/Piscine-March-2022/tree/main/c05)
-- [C06]() - [Argc & Argv](https://github.com/doffa-D/Piscine-March-2022/tree/main/c06)
-- [C07]() - [Memory Allocation](https://github.com/doffa-D/Piscine-March-2022/tree/main/c07)
-- [C08]() - [Header & Structure](https://github.com/doffa-D/Piscine-March-2022/tree/main/c08)
+## Contents
+
+Each directory corresponds to a different exam or assignment and contains my solutions and relevant materials:
+
+- `EXAM00`: Solutions and materials for Exam 00
+- `EXAM01`: Solutions and materials for Exam 01
+- `EXAM02`: Solutions and materials for Exam 02
+- `EXAM03`: Solutions and materials for Exam 03
+
+For assignments within the curriculum:
+
+- `c00`: Solutions for Assignment c00
+- `c01`: Solutions for Assignment c01
+- `c02`: Solutions for Assignment c02
+- `c03`: Solutions for Assignment c03
+- `c04`: Solutions for Assignment c04
+- `c05`: Solutions for Assignment c05
+- `c06`: Solutions for Assignment c06
+- `c07`: Solutions for Assignment c07
+- `c08`: Solutions for Assignment c08
+
+Additional resources and documents:
+
+- `norminette.pdf`: A PDF document explaining the coding style guidelines I followed. The `norminette` is a tool used to check code conformity to these guidelines.
+
+- `how_to_push_your_project.pdf`: A PDF document with instructions on how to push and manage projects using Git.
+
+## Usage
+
+Feel free to explore the directories to find my solutions and notes for different exams and assignments. If you find anything useful, you're welcome to use it as a reference for your own learning. Please keep in mind that understanding the solutions thoroughly and trying to solve the problems on your own is crucial for effective learning.
+
+## Using Norminette
+
+The `norminette` is a style checker used to ensure your code follows the coding standards set by your institution, in this case, École 42. Before submitting your solutions, it's a good practice to run your code through the `norminette` to check for any style violations. For example, you can run the following command:
+
+
 
 
  <div align="center">
